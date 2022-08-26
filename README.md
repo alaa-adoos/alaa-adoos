@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :I am a Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Amman.
+How to reach me: alaaabualadoos@gmail.com💬
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
