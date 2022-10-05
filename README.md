@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 ---
 
-### :woman_technologist: About Me :I am a Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Amman.
+### :woman_technologist: sofwtare developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at ASAC and codefellows.
 How to reach me: alaaabualadoos@gmail.com💬
 ---
 
