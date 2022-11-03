@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: sofwtare developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at ASAC and codefellows.
-How to reach me: alaaabualadoos@gmail.com💬
+How to reach me: se_alaa@proton.me💬
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
